@@ -47,7 +47,7 @@ A **simple rule-based NLP chatbot** built using **Python and Streamlit** to answ
 
 ## 🌐 Deployment
 
-Deployed easily on **Streamlit Cloud** for sharing demos with recruiters and mentors.
+Link = https://customer-service-chatbot-quxjx7mymzuuhau8fmwqpq.streamlit.app/
 
 ---
 
