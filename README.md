@@ -72,6 +72,7 @@ A **simple rule-based NLP chatbot** built using **Python and Streamlit** to answ
 ---
 
 ## 📄 License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This project is licensed under the **MIT License**.
 
