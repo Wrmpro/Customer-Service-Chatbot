@@ -47,7 +47,7 @@ A **simple rule-based NLP chatbot** built using **Python and Streamlit** to answ
 
 ## Live App
 
-👉[Try the app here](https://customer-service-chatbot-quxjx7mymzuuhau8fmwqpq.streamlit.app/)
+👉[Try the app here](https://customer-service-chatbot.streamlit.app/)
 
 
 
